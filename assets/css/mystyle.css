@@ -1,0 +1,13 @@
+.fc {
+	font-family: Pacifico;
+	font-size: 16pt;
+}
+
+.norm {
+	font-family: Oswald;
+}
+
+.jumbotron {
+	background-image: url(../img/background.jpg);
+	background-size: cover;
+}
